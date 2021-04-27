@@ -1,0 +1,1 @@
+from minimal_django_app.wsgi import application
