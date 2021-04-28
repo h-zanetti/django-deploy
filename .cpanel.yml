@@ -1,4 +1,4 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/wwagah/AgahSolutionsRepositories/django-deploy
+    - export DEPLOYPATH=/home/wwagah/AgahSolutionsRepositories/minimal-django-app/django-deploy
